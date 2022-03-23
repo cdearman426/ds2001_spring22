@@ -29,7 +29,7 @@ You will see a message like this:
 
 ```
 remote: Create a pull request for 'test_branch_at' on GitHub by visiting:
-remote:      https://github.com/UVADS/ds2001/pull/new/test_branch_at
+remote:      https://github.com/DrSuk/ds2001_spring22/pull/new/test_branch_at
 ```
 
 If you want to merge the branch with `main`, you will issue a *Pull Request*.
